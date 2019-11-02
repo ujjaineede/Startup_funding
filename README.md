@@ -1,4 +1,4 @@
-# Indian Startup Fundong
+# Indian Startup Funding
 In-depth analysis on Indian Startup Funding Dataset. I have tried to answer a lot of questions related to this data set.
 ## Technologies Used
 1.Python
